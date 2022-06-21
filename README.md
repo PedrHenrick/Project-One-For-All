@@ -1,4 +1,4 @@
-# Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Bem vindo ao repositório do projeto **One For All** ⚔️!
+# Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="50px"> Bem vindo ao repositório do projeto **One For All** ⚔️!
 
 ### Esse foi o segundo projeto utilizando os comandos do MySQL. Fizemos esse projeto na trybe com o intuito de praticar os comando avançados do MySQL, como o `INNER JOIN` e o `HAVING`. Além disso, normalizando e criando uma tabela inteira.
 ---
